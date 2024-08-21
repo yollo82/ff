@@ -1,0 +1,21 @@
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+@import url("https://xcruxiex.github.io/themes/core/settings-icons.css");
+@import url("https://nyri4.github.io/Discolored/main.css");
+@import url("https://xcruxiex.github.io/themes/core/hljs.css");
+
+:root {
+    --themeColor1: #cd0a0a;
+    --themeColor2: #14100e;
+    --font-display: var(--customFont);
+    --homeImage: url('https://imgur.com/eItxuAq.png');
+    --homeImageSize: cover;
+    --backgroundColor: #0d0d0d;
+    --backgroundImage: url('https://imgur.com/qhBghXt.png');
+    --backgroundPosition: center;
+    --backgroundSize: cover;
+    --backgroundRepeat: no-repeat;
+    --backgroundBlur: 100px;
+    --backgroundOpacity: .65;
+    --backgroundCode: rgba(0, 0, 0, .5);
+    --backgroundName: rgba(0, 0, 0, .5);
+}
